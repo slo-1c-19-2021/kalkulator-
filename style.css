@@ -1,0 +1,38 @@
+body
+{
+background-image: url(ksiezyc.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+font-family: Verdana;
+font-size: 30px;
+color:lightblue;
+text-shadow: 0.1em 0.1em 0.05em #333
+}
+input
+{
+    background-color: lightgray;
+    border-radius: 40px;
+    font-size: 18px;
+    font-family:verdana;
+    padding: 5px 32px;
+    display: inline-block;
+    border: 3px solid #12234a;
+    position: relative;
+    top: 0px;
+    position: relative;
+	right: 5px;
+   
+}
+p
+{
+font-size: 30px;	
+}
+h1
+{
+	color:lightblue;
+	letter-spacing: 5px;
+	font-family: sans-serif;
+    text-align: center;
+	text-shadow: 0.1em 0.1em 0.05em #333
+}
